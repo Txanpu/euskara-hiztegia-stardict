@@ -1,13 +1,9 @@
 # Euskara Hiztegiak (eu-eu & eu-es) — StarDict / KOReader
 
-<<<<<<< HEAD
-Diccionario monolingüe de euskera (eu -> eu) en formato StarDict optimizado para KOReader, con índice de declinaciones (deklinabidea), formas verbales y aditz trinkoak (.syn).
-=======
-Colección de diccionarios de euskera en formato **StarDict** optimizados para **KOReader**, con índice morfológico de declinaciones (*deklinabidea*), formas verbales y *aditz trinkoak* (`.syn`):
+Colección de diccionarios de euskera en formato **StarDict** optimizados para **KOReader**, con índice morfológico de declinaciones, formas verbales y *aditz trinkoak* (`.syn`):
 
 - **`eu-eu-hiztegia/`**: Diccionario monolingüe **Euskara → Euskara** (~32.000 lemas y ~2,5M de flexiones).
 - **`eu-es/`**: Diccionario bilingüe **Euskara → Gaztelania** con traducciones directas y flexiones indexadas.
->>>>>>> 193f166 (Añadir diccionario Euskara-Gaztelania (eu-es) y script generador)
 
 ## Instalación en KOReader
 1. Descarga `eu-eu-hiztegia-stardict.zip` y/o `eu-es-hiztegia-stardict.zip` desde la sección **Releases** (o clona este repositorio).
