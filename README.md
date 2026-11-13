@@ -1,7 +1,5 @@
 # Euskara Hiztegia (eu-eu) - StarDict / KOReader
 
-# Euskara Hiztegia (eu-eu) - StarDict / KOReader
-
 Diccionario monolingüe de euskera (eu -> eu) en formato StarDict optimizado para KOReader, con índice de declinaciones (deklinabidea), formas verbales y aditz trinkoak (.syn).
 
 ## Instalación en KOReader
